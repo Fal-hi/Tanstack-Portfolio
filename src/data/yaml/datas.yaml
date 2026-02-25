@@ -1,0 +1,65 @@
+experiences:
+  - role: Frontend Engineer
+    company: Ganesha Operation
+    period: 2023 - Present
+    link: https://ganeshaoperation.com
+    description: Working full-time as a Frontend Engineer, responsible for developing and maintaining web applications. Collaborate with cross-functional teams to build responsive and user-friendly interfaces, implement new features, and optimize application performance.
+  - role: Fullstack NodeJS Developer
+    company: CodeXAcademy
+    period: 3 Months, 2023
+    link: https://www.linkedin.com/company/codexacademyid/
+    description: Completed an intensive 3-month bootcamp program focused on full-stack development with Node.js. Gained hands-on experience building real-world projects including RESTful APIs, database integration, and full-stack applications using modern JavaScript technologies.
+  - role: Frontend Developer
+    company: Refactory
+    period: 1 Month, 2022
+    link: https://refactory.id
+    description: Participated in a 1-month intensive bootcamp program focused on frontend development. Worked on real projects to build practical skills in modern frontend frameworks, responsive design, and collaborative development workflows.
+
+projects:
+  - title: GO Expert Ganesha Operation
+    description: An interactive learning platform for Ganesha Operation students with real-time monitoring of learning progress and educational content management features.
+    tech: [Next.js, TypeScript, Tailwind, Zustand]
+    github: '#'
+    live: '#'
+    image: Project1
+  - title: GO TCR Qualify Checker
+    description: An automated validation tool to check the qualification of TCR (Try Out Code Registration) data to ensure the integrity of student academic data.
+    tech: [Next.js, TypeScript, Tailwind, Zustand]
+    github: '#'
+    live: '#'
+    image: Project2
+  - title: React Native Expo Ecommerce
+    description: Mobile online shopping with a responsive interface, shopping cart feature, and smooth navigation using the Expo ecosystem.
+    tech: [React Native, Expo, TypeScript, Tailwind]
+    github: '#'
+    live: '#'
+    image: Project3
+  - title: React Native Expo Ranah Pesta
+    description: A mobile-based event management and wedding party reservation application that makes it easy for users to search for and book party packages.
+    tech: [React Native, Expo, TypeScript, Tailwind]
+    github: '#'
+    live: '#'
+    image: Project4
+  - title: Book Search
+    description: A Google API Book-based book search application that allows users to quickly search for book references by title, author, or category.
+    tech: [Next.js, TypeScript, Tailwind]
+    github: '#'
+    live: '#'
+    image: Project5
+  - title: Guessing Game
+    description: An interactive guessing game with a simple UI for an enjoyable gaming experience.
+    tech: [Next.js, TypeScript, Tailwind]
+    github: '#'
+    live: '#'
+    image: Project6
+
+socialLinks:
+  - name: GitHub
+    url: https://github.com/Fal-hi
+    icon: Github
+  - name: LinkedIn
+    url: https://linkedin.com/in/syaifal-illahi
+    icon: Linkedin
+  - name: Instagram
+    url: https://www.instagram.com/illahisyaifal
+    icon: Instagram
