@@ -1,0 +1,154 @@
+techLogos:
+  - name: linux
+    title: Linux
+    href: https://www.linux.com
+  - name: ubuntu
+    title: Ubuntu
+    href: https://www.ubuntu.com
+  - name: html5
+    title: HTML5
+    href: https://html.com
+  - name: css3
+    title: CSS3
+    href: https://html.com
+  - name: js
+    title: JavaScript
+    href: https://www.javascript.com
+  - name: typescript
+    title: TypeScript
+    href: https://www.typescriptlang.org
+  - name: mysql
+    title: MySQL
+    href: https://www.mysql.com
+  - name: postgresql
+    title: PostgreSQL
+    href: https://www.postgresql.org
+  - name: supabase
+    title: Supabase
+    href: https://supabase.com
+  - name: firebase
+    title: Firebase
+    href: https://firebase.com
+  - name: nodejs
+    title: Node.js
+    href: https://nodejs.org
+  - name: bunjs
+    title: Bun
+    href: https://bun.sh
+  - name: expressjs
+    title: Express
+    href: https://expressjs.com
+  - name: nestjs
+    title: NestJS
+    href: https://nestjs.com
+  - name: tanstack
+    title: TanStack
+    href: https://tanstack.com
+  - name: react
+    title: React
+    href: https://react.dev
+  - name: expo
+    title: Expo
+    href: https://expo.dev
+  - name: vuejs
+    title: Vue
+    href: https://vuejs.org
+  - name: nextjs
+    title: Next.js
+    href: https://nextjs.org
+  - name: nuxtjs
+    title: Nuxt
+    href: https://nuxtjs.org
+  - name: tailwindcss
+    title: Tailwind CSS
+    href: https://tailwindcss.com
+  - name: less
+    title: Less
+    href: https://lesscss.org
+  - name: sass
+    title: Sass
+    href: https://sass-lang.com
+  - name: materialui
+    title: Material UI
+    href: https://mui.com
+  - name: chakraui
+    title: Chakra UI
+    href: https://chakra-ui.com
+  - name: bulmaui
+    title: Bulma UI
+    href: https://bulma.io
+  - name: headlessui
+    title: Headless UI
+    href: https://headlessui.com
+  - name: redux
+    title: Redux
+    href: https://redux.js.org
+  - name: reduxsaga
+    title: Redux Saga
+    href: https://redux-saga.js.org
+  - name: vercel
+    title: Vercel
+    href: https://vercel.com
+  - name: netlify
+    title: Netlify
+    href: https://netlify.com
+  - name: homebrew
+    title: Homebrew
+    href: https://brew.sh
+  - name: npm
+    title: npm
+    href: https://www.npmjs.com
+  - name: postman
+    title: Postman
+    href: https://www.postman.com
+  - name: git
+    title: Git
+    href: https://git-scm.com
+  - name: github
+    title: GitHub
+    href: https://github.com
+  - name: gitlab
+    title: GitLab
+    href: https://gitlab.com
+  - name: zod
+    title: Zod
+    href: https://github.com/colinhacks/zod
+  - name: auth0
+    title: Auth0
+    href: https://auth0.com
+  - name: json
+    title: JSON
+    href: https://json.org
+  - name: vitejs
+    title: Vite
+    href: https://vitejs.dev
+  - name: vitest
+    title: Vitest
+    href: https://vitest.dev
+  - name: jest
+    title: Jest
+    href: https://jestjs.io
+  - name: vscode
+    title: VS Code
+    href: https://code.visualstudio.com
+  - name: antigravity
+    title: Antigravity
+    href: https://antigravity.dev
+  - name: notion
+    title: Notion
+    href: https://notion.so
+  - name: figma
+    title: Figma
+    href: https://figma.com
+  - name: canva
+    title: Canva
+    href: https://canva.com
+  - name: openai
+    title: OpenAI
+    href: https://openai.com
+  - name: gemini
+    title: Gemini
+    href: https://gemini.google.com
+  - name: claude
+    title: Claude
+    href: https://claude.com

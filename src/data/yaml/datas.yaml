@@ -20,37 +20,37 @@ projects:
     description: An interactive learning platform for Ganesha Operation students with real-time monitoring of learning progress and educational content management features.
     tech: [Next.js, TypeScript, Tailwind, Zustand]
     github: '#'
-    live: '#'
+    live: 'https://ganeshaoperationexpert.com'
     image: Project1
   - title: GO TCR Qualify Checker
     description: An automated validation tool to check the qualification of TCR (Try Out Code Registration) data to ensure the integrity of student academic data.
     tech: [Next.js, TypeScript, Tailwind, Zustand]
     github: '#'
-    live: '#'
+    live: 'https://champion.ganeshaoperationexpert.com'
     image: Project2
   - title: React Native Expo Ecommerce
     description: Mobile online shopping with a responsive interface, shopping cart feature, and smooth navigation using the Expo ecosystem.
     tech: [React Native, Expo, TypeScript, Tailwind]
-    github: '#'
+    github: 'https://github.com/Fal-hi/freebies-ecommerce'
     live: '#'
     image: Project3
   - title: React Native Expo Ranah Pesta
     description: A mobile-based event management and wedding party reservation application that makes it easy for users to search for and book party packages.
     tech: [React Native, Expo, TypeScript, Tailwind]
-    github: '#'
+    github: 'https://github.com/Fal-hi/partofme'
     live: '#'
     image: Project4
   - title: Book Search
     description: A Google API Book-based book search application that allows users to quickly search for book references by title, author, or category.
     tech: [Next.js, TypeScript, Tailwind]
-    github: '#'
-    live: '#'
+    github: 'https://github.com/Fal-hi/book-search-app'
+    live: 'https://book-search-fal.netlify.app'
     image: Project5
   - title: Guessing Game
     description: An interactive guessing game with a simple UI for an enjoyable gaming experience.
     tech: [Next.js, TypeScript, Tailwind]
-    github: '#'
-    live: '#'
+    github: 'https://github.com/Fal-hi/guessing-game'
+    live: 'https://guessing-game-fal.vercel.app'
     image: Project6
 
 socialLinks:

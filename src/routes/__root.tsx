@@ -1,17 +1,17 @@
 import {
   HeadContent,
+  Outlet,
   Scripts,
   createRootRoute,
-  Outlet,
 } from '@tanstack/react-router'
 import { TanStackRouterDevtoolsPanel } from '@tanstack/react-router-devtools'
 import { TanStackDevtools } from '@tanstack/react-devtools'
 
+import appCss from '../styles.css?url'
 import { Navbar } from '@/components/layout/Navbar'
 import { Footer } from '@/components/layout/Footer'
 import { ThemeProvider } from '@/components/ThemeProvider'
 
-import appCss from '../styles.css?url'
 import ClickSpark from '@/components/ClickSpark'
 
 export const Route = createRootRoute({
@@ -25,10 +25,78 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'Frontend Developer Portfolio',
+        title: 'Syaifal Illahi | Frontend Engineer Portfolio',
+      },
+      {
+        name: 'description',
+        content:
+          'Frontend Engineer specializing in React, Next.js, TypeScript, and modern web technologies. Building accessible, pixel-perfect, and performant web experiences.',
+      },
+      {
+        name: 'keywords',
+        content:
+          'Frontend Engineer, Web Engineer, React, Next.js, TypeScript, portfolio, web development, UI/UX',
+      },
+      {
+        name: 'author',
+        content: 'Syaifal Illahi',
+      },
+      {
+        name: 'robots',
+        content: 'index, follow',
+      },
+      {
+        property: 'og:title',
+        content: 'Syaifal Illahi | Frontend Engineer Portfolio',
+      },
+      {
+        property: 'og:description',
+        content:
+          'Frontend Engineer specializing in React, Next.js, TypeScript, and modern web technologies.',
+      },
+      {
+        property: 'og:type',
+        content: 'website',
+      },
+      {
+        property: 'og:url',
+        content: 'https://syaifal-illahi.vercel.app',
+      },
+      {
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+      {
+        name: 'twitter:title',
+        content: 'Syaifal Illahi | Frontend Engineer Portfolio',
+      },
+      {
+        name: 'twitter:description',
+        content:
+          'Frontend Engineer specializing in React, Next.js, TypeScript, and modern web technologies.',
+      },
+      {
+        name: 'twitter:creator',
+        content: '@Fal_hi',
+      },
+      {
+        name: 'theme-color',
+        content: '#6B9CFF',
+      },
+      {
+        name: 'format-detection',
+        content: 'telephone=no',
       },
     ],
     links: [
+      {
+        rel: 'canonical',
+        href: 'https://syaifal-illahi.vercel.app',
+      },
+      {
+        rel: 'icon',
+        href: '/favicon.ico',
+      },
       {
         rel: 'stylesheet',
         href: appCss,

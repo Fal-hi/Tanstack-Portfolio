@@ -62,7 +62,13 @@ function Projects() {
               </div>
 
               <div className="flex gap-3 mt-auto ml-auto">
-                <Button variant="outline" size="sm" asChild className="gap-2">
+                <Button
+                  variant="outline"
+                  size="sm"
+                  asChild
+                  className="gap-2"
+                  disabled={project.github === '#'}
+                >
                   <a
                     href={project.github}
                     target="_blank"
@@ -72,7 +78,12 @@ function Projects() {
                     <Github className="w-4 h-4" /> Code
                   </a>
                 </Button>
-                <Button size="sm" asChild className="gap-2">
+                <Button
+                  size="sm"
+                  asChild
+                  className="gap-2"
+                  disabled={project.live === '#'}
+                >
                   <a
                     href={project.live}
                     target="_blank"
